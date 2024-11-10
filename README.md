@@ -1,4 +1,6 @@
 # 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
+# Name: Lokesh M
+# Reg no: 212223230114
 ## AIM
 ## ALGORITHM:
 1. Start the program.
